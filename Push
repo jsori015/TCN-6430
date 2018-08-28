@@ -1,0 +1,6 @@
+echo "# TCN-6430" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jsori015/TCN-6430.git
+git push -u origin master
